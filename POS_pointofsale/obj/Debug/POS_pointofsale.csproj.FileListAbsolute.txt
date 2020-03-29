@@ -1,0 +1,17 @@
+C:\Users\Maaz Khan\source\repos\POS_pointofsale\POS_pointofsale\bin\Debug\POS_pointofsale.exe.config
+C:\Users\Maaz Khan\source\repos\POS_pointofsale\POS_pointofsale\bin\Debug\POS_pointofsale.exe
+C:\Users\Maaz Khan\source\repos\POS_pointofsale\POS_pointofsale\bin\Debug\POS_pointofsale.pdb
+C:\Users\Maaz Khan\source\repos\POS_pointofsale\POS_pointofsale\obj\Debug\POS_pointofsale.csprojAssemblyReference.cache
+C:\Users\Maaz Khan\source\repos\POS_pointofsale\POS_pointofsale\obj\Debug\POS_pointofsale.FORM_LOGIN.resources
+C:\Users\Maaz Khan\source\repos\POS_pointofsale\POS_pointofsale\obj\Debug\POS_pointofsale.Properties.Resources.resources
+C:\Users\Maaz Khan\source\repos\POS_pointofsale\POS_pointofsale\obj\Debug\POS_pointofsale.csproj.GenerateResource.cache
+C:\Users\Maaz Khan\source\repos\POS_pointofsale\POS_pointofsale\obj\Debug\POS_pointofsale.csproj.CoreCompileInputs.cache
+C:\Users\Maaz Khan\source\repos\POS_pointofsale\POS_pointofsale\obj\Debug\POS_pointofsale.exe
+C:\Users\Maaz Khan\source\repos\POS_pointofsale\POS_pointofsale\obj\Debug\POS_pointofsale.pdb
+C:\Users\Maaz Khan\source\repos\POS_pointofsale\POS_pointofsale\obj\Debug\POS_pointofsale.FORM_MAIN.resources
+C:\Users\Maaz Khan\source\repos\POS_pointofsale\POS_pointofsale\obj\Debug\POS_pointofsale.Main_usercontrol.resources
+C:\Users\Maaz Khan\source\repos\POS_pointofsale\POS_pointofsale\obj\Debug\POS_pointofsale.POS_usercontrol.resources
+C:\Users\Maaz Khan\source\repos\POS_pointofsale\POS_pointofsale\obj\Debug\POS_pointofsale.Report_usercontrol.resources
+C:\Users\Maaz Khan\source\repos\POS_pointofsale\POS_pointofsale\obj\Debug\POS_pointofsale.ProductDetails_usercontrol.resources
+C:\Users\Maaz Khan\source\repos\POS_pointofsale\POS_pointofsale\obj\Debug\POS_pointofsale.add_pdt.resources
+C:\Users\Maaz Khan\source\repos\POS_pointofsale\POS_pointofsale\obj\Debug\POS_pointofsale.Updatedpt.resources
